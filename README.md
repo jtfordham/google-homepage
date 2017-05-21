@@ -1,0 +1,1 @@
+I am recreating the google homepage.  This project will show my competency using html/css as well as the developer tools included with google chrome
